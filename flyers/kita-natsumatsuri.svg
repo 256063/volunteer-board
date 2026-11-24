@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="210mm" height="297mm" viewBox="0 0 1200 1697">
+<defs>
+ <pattern id="asanoha" width="72" height="72" patternUnits="userSpaceOnUse"><path d="M36 0L0 36l36 36 36-36zM0 36h72M36 0v72M18 18l36 36m0-36L18 54" fill="none" stroke="#d5ad51" stroke-width="1.3" opacity=".45"/></pattern>
+ <radialGradient id="glow"><stop stop-color="#f6c861" stop-opacity=".28"/><stop offset="1" stop-color="#f6c861" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="210mm" height="297mm" fill="#08133f"/>
+<circle cx="960" cy="390" r="430" fill="url(#glow)"/>
+<!-- fireworks -->
+<g fill="none" stroke="#e8b94e" stroke-width="3" opacity=".86">
+ <g transform="translate(190 120)"><circle r="8" fill="#e8b94e"/><path d="M0-20V-110M0 20v90M-20 0h-90M20 0h90M-14-14l-65-65M14 14l65 65M14-14l65-65M-14 14l-65 65"/><path d="M0-44v-38M0 44v38M-44 0h-38M44 0h38M-31-31l-27-27M31 31l27 27M31-31l27-27M-31 31l-27 27" stroke-width="2"/></g>
+ <g transform="translate(1000 180) scale(.8)"><circle r="7" fill="#e8b94e"/><path d="M0-20V-105M0 20v105M-20 0h-105M20 0h105M-14-14l-70-70M14 14l70 70M14-14l70-70M-14 14l-70 70"/><path d="M0-43v-36M0 43v36M-43 0h-36M43 0h36M-30-30l-26-26M30 30l26 26M30-30l26-26M-30 30l-26 26" stroke-width="2"/></g>
+</g>
+<!-- tiny sparkles -->
+<g fill="#efc86a"><circle cx="402" cy="76" r="4"/><circle cx="685" cy="158" r="3"/><circle cx="1110" cy="340" r="4"/><circle cx="80" cy="310" r="3"/><path d="M803 84v20m-10-10h20M510 245v16m-8-8h16" stroke="#efc86a" stroke-width="3"/></g>
+<!-- header -->
+<text x="600" y="256" text-anchor="middle" fill="#f1c964" font-size="30" letter-spacing="12" font-family="serif">北部公民館 主催</text>
+<path d="M225 290h750" stroke="#c69c43" stroke-width="2" opacity=".8"/>
+<!-- lanterns -->
+<g transform="translate(790 352)">
+ <path d="M-180-12h360M-150-12v20M0-12v20M150-12v20" stroke="#9aa8c4" stroke-width="3"/>
+ <g transform="translate(-135 44)"><path d="M0-5q-46 30-39 88 5 53 39 65 34-12 39-65Q46 25 0-5z" fill="#e6a847" stroke="#f4ce70" stroke-width="3"/><path d="M-38 24H38M-40 52H40M-38 82H38M-25 113H25M0-4v151" stroke="#172552" stroke-width="3"/><path d="M0 148v38l-9 12h18l-9-12" fill="#d96637"/><text y="82" text-anchor="middle" fill="#7a3325" font-size="28" font-family="serif">祭</text></g>
+ <g transform="translate(0 44)"><path d="M0-5q-46 30-39 88 5 53 39 65 34-12 39-65Q46 25 0-5z" fill="#e6a847" stroke="#f4ce70" stroke-width="3"/><path d="M-38 24H38M-40 52H40M-38 82H38M-25 113H25M0-4v147" stroke="#172552" stroke-width="3"/><path d="M0 148v38l-9 12h18l-9-12" fill="#d96637"/><text y="82" text-anchor="middle" fill="#7a3325" font-size="28" font-family="serif">夏</text></g>
+ <g transform="translate(135 44)"><path d="M0-5q-46 30-39 88 5 53 39 65 34-12 39-65Q46 25 0-5z" fill="#e6a847" stroke="#f4ce70" stroke-width="3"/><path d="M-38 24H38M-40 52H40M-38 82H38M-25 113H25M0-4v147" stroke="#172552" stroke-width="3"/><path d="M0 148v38l-9 12h18l-9-12" fill="#d96637"/><text y="82" text-anchor="middle" fill="#7a3325" font-size="28" font-family="serif">祭</text></g>
+</g>
+<!-- title block -->
+<text x="600" y="705" text-anchor="middle" fill="#fff8e7" font-size="158" font-weight="bold" letter-spacing="18" font-family="serif">夏祭り</text>
+<text x="600" y="778" text-anchor="middle" fill="#e8b94e" font-size="32" letter-spacing="10" font-family="serif">北部公民館</text>
+<!-- decorative divider -->
+<path d="M270 825h660" stroke="#c69c43" stroke-width="2"/><circle cx="600" cy="825" r="7" fill="#e8b94e"/>
+<!-- message -->
+<text x="600" y="914" text-anchor="middle" fill="#fff8e7" font-size="40" font-family="serif">地域のみなさんと楽しむ</text>
+<text x="600" y="978" text-anchor="middle" fill="#fff8e7" font-size="40" font-family="serif">夏祭りです</text>
+<!-- yukata fan -->
+<g transform="translate(600 1167)">
+ <path d="M-170 0Q0-175 170 0Q0 43-170 0Z" fill="#274079" stroke="#f0c35c" stroke-width="5"/>
+ <path d="M-138-12L0 4 138-12M-105-45L0 4 105-45M-65-76L0 4 65-76M0-94V4" fill="none" stroke="#edbd55" stroke-width="4"/>
+ <g fill="#e6734b"><circle cx="-72" cy="-43" r="11"/><circle cx="-52" cy="-60" r="9"/><circle cx="60" cy="-55" r="10"/><circle cx="82" cy="-36" r="9"/></g>
+ <g fill="#f4d16b"><circle cx="-62" cy="-44" r="4"/><circle cx="70" cy="-45" r="4"/><circle cx="0" cy="-38" r="8"/></g>
+ <path d="M-4 4h8l13 128q-9 9-18 0z" fill="#d9a64a"/>
+</g>
+<!-- info panel -->
+<rect x="120" y="1370" width="960" height="210" rx="16" fill="#101e50" stroke="#d6ad56" stroke-width="2"/>
+<text x="600" y="1427" text-anchor="middle" fill="#f0c35c" font-size="24" letter-spacing="8" font-family="serif">開催案内</text>
+<text x="255" y="1490" fill="#fff8e7" font-size="29" font-family="sans-serif">日時</text>
+<text x="410" y="1490" fill="#fff8e7" font-size="29" font-family="sans-serif">決まりしだい掲載します</text>
+<path d="M185 1510h830" stroke="#53618a" stroke-width="1"/>
+<text x="255" y="1557" fill="#fff8e7" font-size="29" font-family="sans-serif">場所</text>
+<text x="410" y="1557" fill="#fff8e7" font-size="29" font-family="sans-serif">北部公民館</text>
+<!-- border -->
+<rect x="18" y="18" width="1164" height="1661" fill="none" stroke="#d6ad56" stroke-width="2"/>
+<rect x="0" y="1630" width="1200" height="67" fill="url(#asanoha)"/>
+</svg>
+
